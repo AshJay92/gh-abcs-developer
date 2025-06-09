@@ -1,5 +1,5 @@
 # 1 - Repository Webhooks and Events
-In this lab you will create and test webhooks and events
+In this lab you will create and test webhooks and events - test
 > Duration: 5-10 minutes
 
 References:
