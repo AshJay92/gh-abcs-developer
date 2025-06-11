@@ -76,7 +76,7 @@ jobs:
       - name: Displays training issues
         run: echo "${{toJSON(steps.issues-result.outputs.result)}}"
         
-graphql-api-query-labels:
+  graphql-api-query-labels:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/github-script@v6
